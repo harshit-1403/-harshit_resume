@@ -1,4 +1,4 @@
-# -harshit_resume
+# Harshit_resume
 ## Harshit DR
 
 ## Education
