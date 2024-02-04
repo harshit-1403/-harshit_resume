@@ -2,9 +2,9 @@
 ## Harshit DR
 
 ## Education
-Bachelor's of Computer Applications (BCA) Madras christian college 7.2 CGPA (2020-2023)
-Master's of Computer Applications (MCA) Sikkim Manipal University, Gangtok, Sikkim Currently pursuing (2024-2026)
-Higer Secondary Army Public school chennai 80% (2019-2020)
+* Bachelor's of Computer Applications (BCA)- Madras christian college 7.2 CGPA (2020-2023)*
+* Master's of Computer Applications (MCA)- Sikkim Manipal University, Gangtok, Sikkim Currently pursuing (2024-2026)
+* Higer Secondary-Army Public school chennai 80% (2019-2020)
  
 ## Skills
 Programming: HTML, CSS, JavaScript.c#,Power query,.NET entity framework core 
