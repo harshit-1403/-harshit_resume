@@ -7,9 +7,9 @@
 * Higer Secondary-Army Public school chennai 80% (2019-2020)
  
 ## Skills
-Programming: HTML, CSS, JavaScript.c#,Power query,.NET entity framework core 
-Database Management: MYSQL
-Power platform tools : canvas app,Model driven app,Power automate cloud flow,Desktop flow,sharepoint 
+* Programming: HTML, CSS, JavaScript.c#,Power query,.NET entity framework core 
+* Database Management: MYSQL
+* Power platform tools : canvas app,Model driven app,Power automate cloud flow,Desktop flow,sharepoint 
 
 ## Experience 
 Currently working as a junior Developer in sensiple software solutions 
